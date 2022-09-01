@@ -2,5 +2,12 @@
 .java-version
 _opensource/
 lecture/_강의자료
-utils/
+_downloads/
 .venv/
+
+workspace/standalone/
+workspace/cluster/
+workspace/elasticsearch-7.15.0
+workspace/filebeat-7.15.0-darwin-x86_64
+workspace/kibana-7.15.0-darwin-x86_64
+workspace/logstash-7.15.0
