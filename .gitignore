@@ -11,3 +11,8 @@ workspace/ch01/elasticsearch-7.15.0
 workspace/ch01/filebeat-7.15.0-darwin-x86_64
 workspace/ch01/kibana-7.15.0-darwin-x86_64
 workspace/ch01/logstash-7.15.0
+
+workspace/ch02/elasticsearch-7.15.0
+workspace/ch02/elasticsearch
+workspace/ch02/kibana-7.15.0-darwin-x86_64
+workspace/ch02/kibana
