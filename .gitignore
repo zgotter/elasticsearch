@@ -5,9 +5,9 @@ lecture/_강의자료
 _downloads/
 .venv/
 
-workspace/standalone/
-workspace/cluster/
-workspace/elasticsearch-7.15.0
-workspace/filebeat-7.15.0-darwin-x86_64
-workspace/kibana-7.15.0-darwin-x86_64
-workspace/logstash-7.15.0
+workspace/ch01/standalone/
+workspace/ch01/cluster/
+workspace/ch01/elasticsearch-7.15.0
+workspace/ch01/filebeat-7.15.0-darwin-x86_64
+workspace/ch01/kibana-7.15.0-darwin-x86_64
+workspace/ch01/logstash-7.15.0
