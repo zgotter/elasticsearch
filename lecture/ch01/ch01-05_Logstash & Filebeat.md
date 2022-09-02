@@ -125,11 +125,14 @@ bin/logstash -f config/logstash-eslog.conf
 
 - Kibana를 통해서도 색인 정보를 확인할 수 있다.
 - Discover 메뉴 선택 > Index pattern 등록
-  <img src="../_images/ch01/05/ch01-05_001.png" />
-  <img src="../_images/ch01/05/ch01-05_002.png" />
+
+<img src="../_images/ch01/05/ch01-05_001.png" />
+
+<br>
 
 - 다시 Discover 메뉴를 선택하면 색인 정보를 확인할 수 있다.
-  <img src="../_images/ch01/05/ch01-05_003.png" />
+
+<img src="../_images/ch01/05/ch01-05_003.png" />
 
 <br>
 
@@ -152,7 +155,7 @@ bin/logstash -f config/logstash-eslog.conf
 
 ### 5.2.1 Filebeat pipeline
 
-<img src="../_images/ch01/05/ch01-05_005.png" width=600 align="left" />
+<img src="../_images/ch01/05/ch01-05_005.png" width=600 />
 
 - Module
   - 다양한 Input Source 데이터에 대한 수집, 시각화를 위한 형태로 만들어서 제공하기 위한 유틸성 패키지
@@ -163,7 +166,7 @@ bin/logstash -f config/logstash-eslog.conf
 
 ### 5.2.2 Filebeat vs Logstash
 
-<img src="../_images/ch01/05/ch01-05_006.png" width=500 align="left" />
+<img src="../_images/ch01/05/ch01-05_006.png" width=500 />
 
 <br>
 
@@ -236,7 +239,11 @@ sudo ./filebeat -e -c filebeat-eslog.yml
 #### 5.2.3..4 Kibana에서 확인
 
 - index pattern 생성 (Stack Management > index patterns > Create index pattern)
-  <img src="../_images/ch01/05/ch01-05_007.png" />
+
+<img src="../_images/ch01/05/ch01-05_007.png" />
+
+<br>
 
 - Discover에서 색인 데이터 확인
-  <img src="../_images/ch01/05/ch01-05_008.png" />
+
+<img src="../_images/ch01/05/ch01-05_008.png" />
