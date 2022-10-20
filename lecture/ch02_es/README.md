@@ -1,2 +1,2 @@
-# ch02\_ES 기본과정
+# Ch 2. Elasticsearch 기본과정
 
